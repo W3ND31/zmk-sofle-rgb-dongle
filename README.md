@@ -1,3 +1,6 @@
+[![Build Status](../../actions/workflows/build.yml/badge.svg)](../../actions)
+[![Download Firmware](https://img.shields.io/badge/Download-Firmware-blue?logo=github)](../../releases/latest)
+
 # Sofle V2 RGB with Dongle - ZMK Configuration
 
 This repository contains the ZMK configuration for the **Sofle V2 RGB** keyboard (from [PandaKB](https://pandakb.com/shop/pcb-kit/sofle-rgb-mx-pcb-kit/) and other retailers on [Aliexpress](https://pt.aliexpress.com/item/1005008453765735.html?spm=a2g0o.productlist.main.28.51d258f3zYx3az&algo_pvid=5fabc906-92a4-4cfd-ba2b-5b5ee188cf3a&algo_exp_id=5fabc906-92a4-4cfd-ba2b-5b5ee188cf3a-20&pdp_ext_f=%7B%22order%22%3A%2262%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2163.59%2163.59%21%21%2178.05%2178.05%21%402103119c17626104784947192eedd1%2112000045206137354%21sea%21BR%21772644390%21X%211%210%21n_tag%3A-29919%3Bd%3A29271214%3Bm03_new_user%3A-29895&curPageLogUid=lTHowaaUWN6k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008453765735%7C_p_origin_prod%3A) too) with support for a **central dongle** for BLE communication.
